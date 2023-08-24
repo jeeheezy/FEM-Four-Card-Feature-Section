@@ -114,6 +114,9 @@ header {
     .card-border {
         margin: 0;
     }
+    .card > p {
+        margin: 0 0 2rem;
+    }
 }
 
 @media(min-width: 62rem) {
